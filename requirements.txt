@@ -1,0 +1,4 @@
+base64
+openai
+watchdog
+dotenv
