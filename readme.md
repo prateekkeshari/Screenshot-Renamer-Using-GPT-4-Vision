@@ -1,4 +1,4 @@
-# Image Analyzer and Renamer
+# Screenshot Renamer
 
 This Python script uses OpenAI's GPT-4 Vision model to analyze images and rename them based on their content. It monitors a specified folder for new images and automatically processes them as they are added.
 
