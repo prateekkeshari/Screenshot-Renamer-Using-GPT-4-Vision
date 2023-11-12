@@ -4,18 +4,8 @@ This Python script uses OpenAI's GPT-4 Vision model to analyze images and rename
 
 ## Dependencies
 
-The script requires the following Python packages:
-
-- `os`
-- `base64`
-- `openai`
-- `watchdog`
-- `dotenv`
-
-You can install these dependencies using pip:
-
 ```bash
-pip install python-dotenv watchdog openai
+pip install -r requirements.txt
 ```
 ## Environment Variables
 
